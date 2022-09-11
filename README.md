@@ -23,6 +23,10 @@ Copy the code over to your machine.
 
 First, make an env file to apply your mysql info. Second, use mysql to make the correct database using 'SOURCE db/schema.sql;' and in the terminal use 'npm run seed' to seed the correct data or create your own. Third, in the terminal input 'npm i' to instal the correct npm packages. Finally, input 'npm start' to run the server and make calls to the database.
 
+![image](https://user-images.githubusercontent.com/100447639/189514348-35ce58c9-9ecb-4ea0-9574-2e1bf788482e.png)
+
+VIDEO LINK: https://drive.google.com/file/d/1GcsYTnisERAQGYGMrDXCWB_1GyOap23R/view
+
 ## Credits
 
 Just Me
